@@ -11,6 +11,7 @@
       * [Support for Parallel Process](#support-for-parallel-process)
       * [Adjustable Processing Time and Quantity](#adjustable-processing-time-and-quantity)
     * [Installation Requirements](#installation-requirements)
+    * [Development Plan](#development-plan)
     * [Bug Tracker](#bug-tracker)
     * [Contributors & Maintainers](#contributors--maintainers)
 <!-- TOC -->
@@ -53,6 +54,14 @@ After reporting is completed, you can make modifications to start time, completi
 Before using this plugin, make sure you have installed and activated the Manufacturing module and Work Order functionality.  
 ![](/Demo6.png)
 
+
+### Development Plan
+
+- [x] Operation Process Reporting
+- [ ] Production Quality Management
+- [ ] Register Equipment Molds
+- [ ] WorkOrder Serial Number
+- [ ] Serial Number Reporting
 
 ### Bug Tracker
 Bugs are tracked on [GitHub Issues](https://github.com/fenglander/leas_mes_process_reporting/issues)  
